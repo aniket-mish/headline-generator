@@ -8,6 +8,8 @@ I'm trying to build a text-to-SQL feature that translates the analytical query i
 
 This will be a straightforward solution where we use an LLM.
 
+![image](https://github.com/aniket-mish/text-to-sql/assets/71699313/8cf26d31-d56d-4389-a4aa-01f0d600544d)
+
 1. The user asks an analytical question and chooses the tables to be used.
 
 2. Relevant table schemas are retrieved from the store.
